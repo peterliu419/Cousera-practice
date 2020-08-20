@@ -1,1 +1,2 @@
 # Cousera-practice
+print("fuck")
